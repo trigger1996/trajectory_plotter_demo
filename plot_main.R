@@ -19,6 +19,7 @@ dat_plot[,5] = dat_plot[,5] - dat_plot[1,5]
 
 mycolors<-brewer.pal(9,"YlGnBu")
 
+# https://ggplot2.tidyverse.org/reference/geom_path.html
 ggplot(dat_plot) +
   geom_path(aes(x = y_slam, y = x_slam, color = mycolors[5])) +
   geom_path(aes(x = y_odom, y = x_odom, color = mycolors[6])) +
