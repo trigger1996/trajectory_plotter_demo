@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552911408317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1E2FC80B",
+    "lastKnownWriteTime" : 1552913369,
+    "last_content_update" : 1552913369666,
+    "path" : "D:/__Workspace/Hector_Improv/trajectory_plotter_demo/plot_main.R",
+    "project_path" : "plot_main.R",
+    "properties" : {
+        "cursorPosition" : "25,67",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
